@@ -1,0 +1,19 @@
+[
+  {
+    "id": "admin_user_1",
+    "email": "admin@example.com",
+    "name": "Admin User",
+    "role": "ADMIN",
+    "status": "pro",
+    "proExpiresAt": "2025-12-31T23:59:59.000Z",
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "email": "nyeso.pal@gmail.com",
+    "name": "nyeso.pal",
+    "role": "USER",
+    "status": "free",
+    "id": "user_1759816462410_1bh3rzpv8v2i",
+    "createdAt": "2025-10-07T05:54:22.410Z"
+  }
+]
